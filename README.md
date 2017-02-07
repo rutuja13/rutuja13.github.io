@@ -60,3 +60,8 @@ Feeling uninspired by the portfolio? Here's a list of cool portfolios I found af
 * <a href="http://yourjustlucky.com/">http://yourjustlucky.com/</a>
 * <a href="http://nicoledominguez.com/portfolio/">http://nicoledominguez.com/portfolio/</a>
 * <a href="http://www.84colors.com/work.html">http://www.84colors.com/work.html</a>
+
+
+###Project details
+1. Open the folder containing project and index.html file.
+2. To run the project, open index.html in browser.
