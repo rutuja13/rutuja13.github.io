@@ -65,3 +65,9 @@ Feeling uninspired by the portfolio? Here's a list of cool portfolios I found af
 ###Project details
 1. Open the folder containing project and index.html file.
 2. To run the project, open index.html in browser.
+3. To check the score of *index.html*, open Pagespeed insights and copy paste the url. after analyzing, we can see the score of this page.
+4. In this case, the score of **index.html** is 95/100 (for mobile)  and (97/100) for desktop.
+5. In order to achieve this score, it is important to remove all blocking scripts and optimize images. *Inlining CSS* was most useful thing to achieve this score. 
+6. Another part of the project is pizza.html page runs with 60 fps. 
+7. Main steps to achieve this score are proper loops functioning and proper dom queries.
+8. Last part is time to resize pizzas is succesfully reduced to 0.7-1ms.
